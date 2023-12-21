@@ -1,0 +1,25 @@
+body
+{
+background-color:#fabe96;
+font-family: 'Josefin Slab', serif;
+color:white;
+}
+.nav-link,.navbar-nav,.navbar-light,a.navbar-brand
+{
+color:white;
+}
+.footer
+{
+height:50px;
+width:100%;
+background-color:black;
+position:fixed;
+bottom:0;
+left:0;
+text-align:center;
+font-weight:bold;
+}
+.table.table-bordered
+{
+
+}
